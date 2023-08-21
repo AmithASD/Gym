@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+  }
+  
+  .h11 {
+    color: darkblue;
+    font-size: 50px;
+  }
+  
+  .contact {
+    position: relative;
+    min-height: 100vn;
+    padding: 50px 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: rgb(255, 244, 92);
+    background-size: cover;
+    color: rgb(1, 54, 9);
+  }
+  .inputBox {
+    width: 100%;
+    padding: 5px 0;
+    font-size: 16px;
+    margin: 10px 0;
+    border: none;
+    border-bottom: 2px solid #333;
+    outline: none;
+    resize: none;
+  }
+  .inputBoxa {
+    width: 100%;
+    padding: 5px 0;
+    font-size: 16px;
+    margin: 10px 0;
+    border: none;
+    border-bottom: 2px solid #333;
+    outline: none;
+    resize: none;
+  }
+  .qq {
+    width: 400px;
+    height: 50px;
+    color: aqua;
+    background: blueviolet;
+    font-size: 30px;
+    font-weight: bold;
+  }
+  .inp {
+    width: 100%;
+    padding: 5px 0;
+    font-size: 16px;
+    margin: 10px 0;
+    border: none;
+    border-bottom: 2px solid #333;
+    outline: none;
+    resize: none;
+    background: rgb(247, 202, 202);
+    color: rgb(2, 19, 117);
+  }
